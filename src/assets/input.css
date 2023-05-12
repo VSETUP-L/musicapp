@@ -1,0 +1,7 @@
+.el-input__inner{
+    border:1px solid red;
+    border-radius: 40px;
+}
+.self:active {
+    color: blueviolet;
+  }
