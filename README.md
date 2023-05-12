@@ -25,9 +25,9 @@ npm install
 ![img.png](%E7%94%A8%E6%88%B7%E6%94%B6%E8%97%8F.png)
 ![img.png](%E7%94%A8%E6%88%B7%E8%AF%A6%E6%83%85.png)
 ![img.png](%E8%A7%86%E9%A2%91mv.png)
-![img.png](%E6%AD%8C%E6%89%8B%E8%AF%A6%E6%83%85.png)
-![img.png](%E6%AD%8C%E6%89%8B%E8%AF%A6%E6%83%85.png)
-![img.png](%E5%85%B6%E4%BB%96%E7%94%A8%E6%88%B7%E5%8A%A8%E6%80%81.png)
+![img.png](./%E6%AD%8C%E6%89%8B%E8%AF%A6%E6%83%85.png)
+![img.png](./%E6%AD%8C%E6%89%8B%E8%AF%A6%E6%83%85.png)
+![img.png](./%E5%85%B6%E4%BB%96%E7%94%A8%E6%88%B7%E5%8A%A8%E6%80%81.png)
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
